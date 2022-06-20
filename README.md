@@ -42,7 +42,9 @@ The use of a modern web browser.
 
 ### Screenshots
 
-
+![Screenshot 1](https://dpk5e7.github.io/module01-challenge/assets/Screenshots/screenshot1.jpg)
+![Screenshot 2](https://dpk5e7.github.io/module01-challenge/assets/Screenshots/screenshot2.jpg)
+![Screenshot 3](https://dpk5e7.github.io/module01-challenge/assets/Screenshots/screenshot3.jpg)
 
 ## Authors
 
