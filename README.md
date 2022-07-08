@@ -1,6 +1,6 @@
-# Module 01 Challenge
+# Accessibility Refactor
 
-The purpose of this challenge is to refactor an existing site to make it more accessible.
+Module 01 Challenge for the Denver University Coding Bootcamp. The purpose of this challenge is to refactor an existing site to make it more accessible.
 
 ## Description
 
@@ -38,13 +38,13 @@ The use of a modern web browser.
 
 ### URL
 
-* [https://dpk5e7.github.io/module01-challenge/](https://dpk5e7.github.io/module01-challenge/)
+* [https://dpk5e7.github.io/accessibility-refactor/](https://dpk5e7.github.io/accessibility-refactor/)
 
 ### Screenshots
 
-![Screenshot 1](https://dpk5e7.github.io/module01-challenge/assets/Screenshots/screenshot1.jpg)
-![Screenshot 2](https://dpk5e7.github.io/module01-challenge/assets/Screenshots/screenshot2.jpg)
-![Screenshot 3](https://dpk5e7.github.io/module01-challenge/assets/Screenshots/screenshot3.jpg)
+![Screenshot 1](./assets/Screenshots/screenshot1.jpg)
+![Screenshot 2](./assets/Screenshots/screenshot2.jpg)
+![Screenshot 3](./assets/Screenshots/screenshot3.jpg)
 
 ## Authors
 
